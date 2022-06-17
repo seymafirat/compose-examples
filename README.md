@@ -13,5 +13,5 @@ You can watch and create projects with Udemy Course👉🏻 https://www.udemy.co
 ## 🎬Movie App
 
 <p align="center">
-<img src="https://github.com/seymafirat/jetpack-compose-examples/blob/main/JetTipApp.gif" width="32%"/>
+<img src="https://github.com/seymafirat/jetpack-compose-examples/blob/main/MovieApp.gif" width="32%"/>
 </p>
